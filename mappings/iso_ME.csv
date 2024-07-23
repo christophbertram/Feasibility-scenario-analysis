@@ -1,0 +1,240 @@
+iso;country_name;model
+abw;Aruba;LAM
+afg;Afghanistan;SAS
+ago;Angola;AFR
+aia;Anguilla;LAM
+alb;Albania;EEU
+and;Andorra;WEU
+ant;Netherlands Antilles;LAM
+are;United Arab Emirates;MEA
+arg;Argentina;LAM
+arm;Armenia;FSU
+asm;American Samoa;PAS
+atg;Antigua & Barbuda;LAM
+aus;Australia;PAO
+aut;Austria;WEU
+aze;Azerbaijan;FSU
+bdi;Burundi;AFR
+bel;Belgium;WEU
+ben;Benin;AFR
+bfa;Burkina Faso;AFR
+bgd;Bangladesh;SAS
+bgr;Bulgaria;EEU
+bhr;Bahrain;MEA
+bhs;Bahamas;LAM
+bih;Bosnia and Herzegovina;EEU
+blr;Belarus;FSU
+blz;Belize;LAM
+bmu;Bermuda;LAM
+bol;Bolivia;LAM
+bra;Brazil;LAM
+brb;Barbados;LAM
+brn;Brunei Darussalam;PAS
+btn;Bhutan;SAS
+bwa;Botswana;AFR
+caf;Central African Republic;AFR
+can;Canada;NAM
+cck;Cocos (Keeling) Islands;PAS
+che;Switzerland;WEU
+chi;Channel Islands;WEU
+chl;Chile;LAM
+chn;China;CPA
+civ;Cote dIvoire;AFR
+cmr;Cameroon;AFR
+cod;Congo, the Democratic Republic of the;AFR
+cog;Congo;AFR
+cok;Cook Islands;PAS
+col;Colombia;LAM
+com;Comoros;AFR
+cpv;Cape Verde;AFR
+cri;Costa Rica;LAM
+cub;Cuba;LAM
+cym;Cayman Islands;LAM
+cyp;Cyprus;WEU
+cxr;Christmas Island;PAS
+cze;Czech Republic;EEU
+deu;Germany;WEU
+dji;Djibouti;AFR
+dma;Dominica;LAM
+dnk;Denmark;WEU
+dom;Dominican Republic;LAM
+dza;Algeria;MEA
+ecu;Ecuador;LAM
+egy;Egypt;MEA
+eri;Eritrea;AFR
+esh;Western Sahara;MEA
+esp;Spain;WEU
+est;Estonia;EEU
+eth;Ethiopia;AFR
+fin;Finland;WEU
+fji;Fiji;PAS
+flk;Falkland Islands (Malvinas);LAM
+fra;France;WEU
+fro;Faroe Islands;WEU
+fsm;Micronesia, Federated States of;PAS
+gab;Gabon;AFR
+gbr;United Kingdom;WEU
+geo;Georgia;FSU
+gha;Ghana;AFR
+gib;Gibraltar;WEU
+gin;Guinea;AFR
+glp;Guadeloupe;LAM
+gmb;Gambia;AFR
+gnb;Guinea-Bissau;AFR
+gnq;Equatorial Guinea;AFR
+grc;Greece;WEU
+grd;Grenada;LAM
+grl;Greenland;WEU
+gtm;Guatemala;LAM
+guf;French Guiana;LAM
+gum;Guam;NAM
+guy;Guyana;LAM
+hkg;Hong Kong;CPA
+hnd;Honduras;LAM
+hrv;Croatia;EEU
+hti;Haiti;LAM
+hun;Hungary;EEU
+idn;Indonesia;PAS
+imn;Isle of Man;WEU
+ind;India;SAS
+irl;Ireland;WEU
+irn;Iran, Islamic Republic of;MEA
+irq;Iraq;MEA
+isl;Iceland;WEU
+isr;Israel;MEA
+ita;Italy;WEU
+jam;Jamaica;LAM
+jor;Jordan;MEA
+jpn;Japan;PAO
+kaz;Kazakhstan;FSU
+ken;Kenya;AFR
+kgz;Kyrgyzstan;FSU
+khm;Cambodia;CPA
+kir;Kiribati;PAS
+kna;Saint Kitts and Nevis;LAM
+kor;Korea, Republic of;PAS
+kwt;Kuwait;MEA
+lao;Lao Peoples Democratic Republic;CPA
+lbn;Lebanon;MEA
+lbr;Liberia;AFR
+lby;Libyan Arab Jamahiriya;MEA
+lca;Saint Lucia;LAM
+lie;Liechtenstein;WEU
+lka;Sri Lanka;SAS
+lso;Lesotho;AFR
+ltu;Lithuania;EEU
+lux;Luxembourg;WEU
+lva;Latvia;EEU
+mac;Macau;PAS
+mar;Morocco;MEA
+mco;Monaco;WEU
+mda;Moldova, Republic of;FSU
+mdg;Madagascar;AFR
+mdv;Maldives;SAS
+mex;Mexico;LAM
+mhl;Marshall Islands;PAS
+mkd;Macedonia, the former Yugoslav Republic of;EEU
+mli;Mali;AFR
+mlt;Malta;WEU
+mmr;Myanmar;PAS
+mne;Montenegro;EEU
+mng;Mongolia;CPA
+mnp;Northern Mariana Islands;PAS
+moz;Mozambique;AFR
+mrt;Mauritania;AFR
+msr;Montserrat;LAM
+mtq;Martinique;LAM
+mus;Mauritius;AFR
+mwi;Malawi;AFR
+mys;Malaysia;PAS
+myt;Mayotte;AFR
+nam;Namibia;AFR
+ncl;New Caledonia;PAS
+ner;Niger;AFR
+nfk;Norfolk Island;PAS
+nga;Nigeria;AFR
+nic;Nicaragua;LAM
+niu;Niue;PAS
+nld;Netherlands;WEU
+nor;Norway;WEU
+npl;Nepal;SAS
+nru;Nauru;PAS
+nzl;New Zealand;PAO
+omn;Oman;MEA
+pak;Pakistan;SAS
+pan;Panama;LAM
+pci;Pacific Islands Trust Territory;PAS
+pcn;Pitcairn Islands;PAS
+per;Peru;LAM
+phl;Philippines;PAS
+plw;Palau;PAS
+png;Papua New Guinea;PAS
+pol;Poland;EEU
+pri;Puerto Rico;NAM
+prk;Korea, Democratic Peoples Republic of;CPA
+prt;Portugal;WEU
+pry;Paraguay;LAM
+pse;Palestinian Territory, Occupied;MEA
+pyf;French Polynesia;PAS
+qat;Qatar;MEA
+reu;Reunion;AFR
+rou;Romania;EEU
+rus;Russian Federation;FSU
+rwa;Rwanda;AFR
+sau;Saudi Arabia;MEA
+scg;Serbia and Montenegro;EEU
+sdn;Sudan;MEA
+sen;Senegal;AFR
+sgp;Singapore;PAS
+shn;Saint Helena;AFR
+sjm;Svalbard and Jan Mayen Islands;WEU
+slb;Solomon Islands;PAS
+sle;Sierra Leone;AFR
+slv;El Salvador;LAM
+smr;San Marino;WEU
+som;Somalia;AFR
+spm;Saint Pierre and Miquelon;NAM
+srb;Serbia;EEU
+stp;Sao Tome and Principe;AFR
+sur;Suriname;LAM
+svk;Slovakia;EEU
+svn;Slovenia;EEU
+swe;Sweden;WEU
+swz;Swaziland;AFR
+syc;Seychelles;AFR
+syr;Syrian Arab Republic;MEA
+tca;Turks and Caicos;LAM
+tcd;Chad;AFR
+tgo;Togo;AFR
+tha;Thailand;PAS
+tjk;Tajikistan;FSU
+tkl;Tokelau;PAS
+tkm;Turkmenistan;FSU
+tls;Timor Leste;PAS
+ton;Tonga;PAS
+tto;Trinidad and Tobago;LAM
+tun;Tunisia;MEA
+tur;Turkey;WEU
+tuv;Tuvalu;PAS
+twn;Taiwan;PAS
+tza;Tanzania, United Republic of;AFR
+uga;Uganda;AFR
+ukr;Ukraine;FSU
+ury;Uruguay;LAM
+usa;United States of America;NAM
+uzb;Uzbekistan;FSU
+vat;Vatican;WEU
+vct;Saint Vincent and the Grenadines;LAM
+ven;Venezuela;LAM
+vgb;Virgin Islands, British;LAM
+vir;Virgin Islands, U.S.;NAM
+vnm;Viet Nam;CPA
+vut;Vanuatu;PAS
+wlf;Wallis and Futuna;PAS
+wsm;Samoa;PAS
+yem;Yemen;MEA
+yug;Yugoslavia, Federal Republic of;EEU
+zaf;South Africa;AFR
+zmb;Zambia;AFR
+zwe;Zimbabwe;AFR
+ssd;South Sudan;MEA

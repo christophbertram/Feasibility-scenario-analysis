@@ -1,0 +1,240 @@
+model;Native Region Name;Country ;iso
+ROW;Rest of the World;AFGANISTAN                              ;AFG
+ROW;Rest of the World;ALBANIA                                 ;ALB
+REP;Rest of energy producing countries;ALGERIA                                 ;DZA
+ROW;Rest of the World;AMERICAN SAMOA                          ;ASM
+ROW;Rest of the World;ANDORRA                                 ;AND
+ROW;Rest of the World;ANGOLA                                  ;AGO
+ROW;Rest of the World;ANGUILLA                                ;AIA
+ROW;Rest of the World;ANTARCTICA                              ;ATA
+ROW;Rest of the World;ANTIGUA AND BARBUDA                       ;ATG
+ARG;Argentina;ARGENTINA                               ;ARG
+ROW;Rest of the World;ARMENIA                                 ;ARM
+ROW;Rest of the World;ARUBA                                   ;ABW
+OCE;Oceania;AUSTRALIA                               ;AUS
+EU28;EU28;AUSTRIA                                 ;AUT
+REP;Rest of energy producing countries;AZERBAIJAN                              ;AZE
+ROW;Rest of the World;BAHAMAS                                 ;BHS
+ROW;Rest of the World;BAHRAIN                                 ;BHR
+ROW;Rest of the World;BANGLADESH                              ;BGD
+ROW;Rest of the World;BARBADOS                                ;BRB
+REU;Rest of Europe;BELARUS                                 ;BLR
+EU28;EU28;BELGIUM                                 ;BEL
+ROW;Rest of the World;BELIZE                                  ;BLZ
+ROW;Rest of the World;BENIN                                   ;BEN
+ROW;Rest of the World;BERMUDA                                 ;BMU
+ROW;Rest of the World;BHUTAN                                  ;BTN
+ROW;Rest of the World;BOLIVIA                                 ;BOL
+REU;Rest of Europe;BOSNIA AND HERZEGOVINA                    ;BIH
+ROW;Rest of the World;BOTSWANA                                ;BWA
+ROW;Rest of the World;BOUVET ISLAND;BVT
+BRA;Brazil;BRAZIL                                  ;BRA
+ROW;Rest of the World;BRITISH INDIAN OCEAN TERRITORY;IOT
+ROW;Rest of the World;BRUNEI DARUSSALAM                       ;BRN
+EU28;EU28;BULGARIA                                ;BGR
+ROW;Rest of the World;BURKINA FASO                            ;BFA
+ROW;Rest of the World;BURUNDI                                 ;BDI
+ROW;Rest of the World;CAMBODIA                                ;KHM
+ROW;Rest of the World;CAMEROON                                ;CMR
+CAN;Canada;CANADA                                  ;CAN
+ROW;Rest of the World;CAPE VERDE                              ;CPV
+ROW;Rest of the World;CAYMAN ISLANDS                          ;CYM
+ROW;Rest of the World;CENTRAL AFRICAN REPUBLIC                ;CAF
+ROW;Rest of the World;CHAD                                    ;TCD
+ROW;Rest of the World;CHILE                                   ;CHL
+CHN;China;CHINA                                   ;CHN
+ROW;Rest of the World;CHRISTMAS ISLAND                        ;CXR
+ROW;Rest of the World;COCOS (KEELING) ISLANDS                 ;CCK
+ROW;Rest of the World;COLOMBIA                                ;COL
+ROW;Rest of the World;COMOROS                                 ;COM
+ROW;Rest of the World;CONGO                                   ;COG
+ROW;Rest of the World;CONGO, THE DEMOCRATIC REPUBLIC OF THE;COD
+ROW;Rest of the World;COOK ISLANDS                            ;COK
+ROW;Rest of the World;COSTA RICA                              ;CRI
+ROW;Rest of the World;CÔTE D'IVOIRE;CIV
+EU28;EU28;CROATIA;HRV
+ROW;Rest of the World;CUBA                                    ;CUB
+EU28;EU28;CYPRUS                                  ;CYP
+EU28;EU28;CZECH REPUBLIC                          ;CZE
+EU28;EU28;DENMARK                                 ;DNK
+ROW;Rest of the World;DJIBOUTI                                ;DJI
+ROW;Rest of the World;DOMINICA                                ;DMA
+ROW;Rest of the World;DOMINICAN REPUBLIC                      ;DOM
+ROW;Rest of the World;EAST TIMOR;TLS
+ROW;Rest of the World;ECUADOR                                 ;ECU
+ROW;Rest of the World;EGYPT                                   ;EGY
+ROW;Rest of the World;EL SALVADOR                             ;SLV
+ROW;Rest of the World;EQUATORIAL GUINEA                       ;GNQ
+ROW;Rest of the World;ERITREA                                 ;ERI
+EU28;EU28;ESTONIA                                 ;EST
+ROW;Rest of the World;ETHIOPIA                                ;ETH
+ROW;Rest of the World;FALKLANDS ISLANDS (MALVINAS)            ;FLK
+ROW;Rest of the World;FAROE ISLANDS;FRO
+ROW;Rest of the World;FIJI                                    ;FJI
+EU28;EU28;FINLAND                                 ;FIN
+EU28;EU28;FRANCE                                  ;FRA
+ROW;Rest of the World;FRENCH GUIANA                           ;GUF
+ROW;Rest of the World;FRENCH POLYNESIA;PYF
+ROW;Rest of the World;FRENCH SOUTHERN TERRITORIES             ;ATF
+ROW;Rest of the World;GABON                                   ;GAB
+ROW;Rest of the World;GAMBIA                                  ;GMB
+ROW;Rest of the World;GEORGIA                                 ;GEO
+EU28;EU28;GERMANY                                 ;DEU
+ROW;Rest of the World;GHANA                                   ;GHA
+ROW;Rest of the World;GIBRALTAR                               ;GIB
+EU28;EU28;GREECE                                  ;GRC
+ROW;Rest of the World;GREENLAND                               ;GRL
+ROW;Rest of the World;GRENADA                                 ;GRD
+ROW;Rest of the World;GUADELOUPE                              ;GLP
+ROW;Rest of the World;GUAM                                    ;GUM
+ROW;Rest of the World;GUATEMALA                               ;GTM
+ROW;Rest of the World;GUINEA                                  ;GIN
+ROW;Rest of the World;GUINEA-BISSAU                           ;GNB
+ROW;Rest of the World;GUYANA                                  ;GUY
+ROW;Rest of the World;HAITI                                   ;HTI
+ROW;Rest of the World;HEARD ISLAND AND MCDONALD ISLANDS         ;HMD
+ROW;Rest of the World;HOLY SEE (VATICAN CITY STATE);VAT
+ROW;Rest of the World;HONDURAS                                ;HND
+ROW;Rest of the World;HONG KONG                               ;HKG
+EU28;EU28;HUNGARY                                 ;HUN
+REU;Rest of Europe;ICELAND                                 ;ISL
+IND;India;INDIA                                   ;IND
+IDN;Indonesia;INDONESIA                               ;IDN
+REP;Rest of energy producing countries;IRAN, ISLAMIC REPUBLIC OF;IRN
+REP;Rest of energy producing countries;IRAQ                                    ;IRQ
+EU28;EU28;IRELAND                                 ;IRL
+ROW;Rest of the World;ISRAEL                                  ;ISR
+EU28;EU28;ITALY                                   ;ITA
+ROW;Rest of the World;JAMAICA                                 ;JAM
+JPN;Japan;JAPAN                                   ;JPN
+REP;Rest of energy producing countries;JORDAN                                  ;JOR
+ROW;Rest of the World;KAZAKSTAN;KAZ
+ROW;Rest of the World;KENYA                                   ;KEN
+ROW;Rest of the World;KIRIBATI                                ;KIR
+ROW;Rest of the World;KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF;PRK
+KOR;South Korea;KOREA, REPUBLIC OF;KOR
+REP;Rest of energy producing countries;KUWAIT                                  ;KWT
+ROW;Rest of the World;KYRGYZSTAN                              ;KGZ
+ROW;Rest of the World;LAO PEOPLE'S DEMOCRATIC REPUBLIC;LAO
+EU28;EU28;LATVIA                                  ;LVA
+REP;Rest of energy producing countries;LEBANON                                 ;LBN
+ROW;Rest of the World;LESOTHO                                 ;LSO
+ROW;Rest of the World;LIBERIA                                 ;LBR
+REP;Rest of energy producing countries;LIBYAN ARAB JAMAHIRIYA;LBY
+REU;Rest of Europe;LIECHTENSTEIN                           ;LIE
+EU28;EU28;LITHUANIA                               ;LTU
+EU28;EU28;LUXEMBOURG                              ;LUX
+ROW;Rest of the World;MACAU                                   ;MAC
+REU;Rest of Europe;MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF;MKD
+ROW;Rest of the World;MADAGASCAR                              ;MDG
+ROW;Rest of the World;MALAWI                                  ;MWI
+ROW;Rest of the World;MALAYSIA                                ;MYS
+ROW;Rest of the World;MALDIVES                                ;MDV
+ROW;Rest of the World;MALI                                    ;MLI
+EU28;EU28;MALTA                                   ;MLT
+ROW;Rest of the World;MARSHALL ISLANDS                        ;MHL
+ROW;Rest of the World;MARTINIQUE                              ;MTQ
+ROW;Rest of the World;MAURITANIA                              ;MRT
+ROW;Rest of the World;MAURITIUS                               ;MUS
+ROW;Rest of the World;MAYOTTE                                 ;MYT
+MEX;Mexico;MEXICO                                  ;MEX
+ROW;Rest of the World;MICRONESIA, FEDERATED STATES OF;FSM
+REU;Rest of Europe;MOLDOVA, REPUBLIC OF;MDA
+REU;Rest of Europe;MONACO                                  ;MCO
+ROW;Rest of the World;MONGOLIA                                ;MNG
+REU;Rest of Europe;MONTENEGRO;MNE
+ROW;Rest of the World;MONTSERRAT                              ;MSR
+ROW;Rest of the World;MOROCCO                                 ;MAR
+ROW;Rest of the World;MOZAMBIQUE                              ;MOZ
+ROW;Rest of the World;MYANMAR                                 ;MMR
+ROW;Rest of the World;NAMIBIA                                 ;NAM
+ROW;Rest of the World;NAURU                                   ;NRU
+ROW;Rest of the World;NEPAL                                   ;NPL
+EU28;EU28;NETHERLANDS                             ;NLD
+ROW;Rest of the World;NETHERLANDS ANTILLES                    ;ANT
+ROW;Rest of the World;NEW CALEDONIA                           ;NCL
+OCE;Oceania;NEW ZEALAND                             ;NZL
+ROW;Rest of the World;NICARAGUA                               ;NIC
+ROW;Rest of the World;NIGER                                   ;NER
+REP;Rest of energy producing countries;NIGERIA                                 ;NGA
+ROW;Rest of the World;NIUE                                    ;NIU
+ROW;Rest of the World;NORFOLK ISLAND                          ;NFK
+ROW;Rest of the World;NORTHERN MARIANA ISLANDS                ;MNP
+REU;Rest of Europe;NORWAY                                  ;NOR
+ROW;Rest of the World;OMAN                                    ;OMN
+ROW;Rest of the World;PAKISTAN                                ;PAK
+ROW;Rest of the World;PALAU                                   ;PLW
+ROW;Rest of the World;PANAMA                                  ;PAN
+ROW;Rest of the World;PAPUA NEW GUINEA                        ;PNG
+ROW;Rest of the World;PARAGUAY                                ;PRY
+ROW;Rest of the World;PERU                                    ;PER
+ROW;Rest of the World;PHILIPPINES                             ;PHL
+ROW;Rest of the World;PITCAIRN                                ;PCN
+EU28;EU28;POLAND                                  ;POL
+EU28;EU28;PORTUGAL                                ;PRT
+ROW;Rest of the World;PUERTO RICO                             ;PRI
+REP;Rest of energy producing countries;QATAR                                   ;QAT
+ROW;Rest of the World;RÉUNION                                 ;REU
+EU28;EU28;ROMANIA                                 ;ROU
+RUS;Russian federation;RUSSIAN FEDERATION                      ;RUS
+ROW;Rest of the World;RWANDA                                  ;RWA
+ROW;Rest of the World;SAINT HELENA                            ;SHN
+ROW;Rest of the World;SAINT KITTS AND NEVIS ;KNA
+ROW;Rest of the World;SAINT LUCIA                             ;LCA
+ROW;Rest of the World;SAINT PIERRE AND MIQUELON    ;SPM
+ROW;Rest of the World;SAINT VINCENT AND THE GRENADINES;VCT
+ROW;Rest of the World;SAMOA                                   ;WSM
+ROW;Rest of the World;SAN MARINO                              ;SMR
+ROW;Rest of the World;SAO TOME AND PRINCIPE;STP
+SAR;Saudi Arabia;SAUDI ARABIA                            ;SAU
+ROW;Rest of the World;SENEGAL                                 ;SEN
+REU;Rest of Europe;SERBIA;SRB
+ROW;Rest of the World;SEYCHELLES                              ;SYC
+ROW;Rest of the World;SIERRA LEONE                            ;SLE
+ROW;Rest of the World;SINGAPORE                               ;SGP
+EU28;EU28;SLOVAKIA                                ;SVK
+EU28;EU28;SLOVENIA                                ;SVN
+ROW;Rest of the World;SOLOMON ISLANDS                         ;SLB
+ROW;Rest of the World;SOMALIA                                 ;SOM
+SAF;South Africa;SOUTH AFRICA                            ;ZAF
+ROW;Rest of the World;SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS;SGS
+EU28;EU28;SPAIN                                   ;ESP
+ROW;Rest of the World;SRI LANKA;LKA
+ROW;Rest of the World;SUDAN                                   ;SDN
+ROW;Rest of the World;SURINAME                                ;SUR
+ROW;Rest of the World;SVALBARD AND JAN MAYEN                                      ;SJM
+ROW;Rest of the World;SWAZILAND                               ;SWZ
+EU28;EU28;SWEDEN                                  ;SWE
+REU;Rest of Europe;SWITZERLAND                             ;CHE
+REP;Rest of energy producing countries;SYRIAN ARAB REPUBLIC;SYR
+ROW;Rest of the World;TAIWAN, PROVINCE OF CHINA                                   ;TWN
+ROW;Rest of the World;TAJIKISTAN                              ;TJK
+ROW;Rest of the World;TANZANIA, UNITED REPUBLIC OF;TZA
+ROW;Rest of the World;THAILAND                                ;THA
+ROW;Rest of the World;TOGO                                    ;TGO
+ROW;Rest of the World;TOKELAU                                 ;TKL
+ROW;Rest of the World;TONGA                                   ;TON
+ROW;Rest of the World;TRINIDAD AND TOBAGO;TTO
+ROW;Rest of the World;TUNISIA                                 ;TUN
+TUR;Turkey;TURKEY                                  ;TUR
+ROW;Rest of the World;TURKMENISTAN                            ;TKM
+ROW;Rest of the World;TURKS AND CAICOS ISLANDS                                    ;TCA
+ROW;Rest of the World;TUVALU                                  ;TUV
+ROW;Rest of the World;UGANDA                                  ;UGA
+REU;Rest of Europe;UKRAINE                                 ;UKR
+REP;Rest of energy producing countries;UNITED ARAB EMIRATES                    ;ARE
+EU28;EU28;UNITED KINGDOM                          ;GBR
+USA;USA;UNITED STATES                           ;USA
+ROW;Rest of the World;UNITED STATES MINOR OUTLYING ISLANDS    ;UMI
+ROW;Rest of the World;URUGUAY                                 ;URY
+ROW;Rest of the World;UZBEKISTAN                              ;UZB
+ROW;Rest of the World;VANUATU                                 ;VUT
+REP;Rest of energy producing countries;VENEZUELA                               ;VEN
+ROW;Rest of the World;VIET NAM                                ;VNM
+ROW;Rest of the World;VIRGIN ISLANDS, BRITISH;VGB
+ROW;Rest of the World;VIRGIN ISLANDS, U.S.;VIR
+ROW;Rest of the World;WALLIS AND FUTUNA;WLF
+REP;Rest of energy producing countries;WESTERN SAHARA                          ;ESH
+REP;Rest of energy producing countries;YEMEN                                   ;YEM
+ROW;Rest of the World;ZAMBIA                                  ;ZMB
+ROW;Rest of the World;ZIMBABWE                                ;ZWE

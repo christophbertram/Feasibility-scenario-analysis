@@ -1,0 +1,248 @@
+model;Native Region Name;iso;Country
+LACA;Latin america and Caraibes (except Brasil and Mexico);ABW;Aruba 
+SASIA;South Asia;AFG;Afghanistan 
+SSA;Sub-Saharian African (except South Africa);AGO;Angola 
+LACA;Latin america and Caraibes (except Brasil and Mexico);AIA;Anguilla 
+EUROPE;Europe;ALA;Åland Islands 
+EUROPE;Europe;ALB;Albania 
+EUROPE;Europe;AND;Andorra 
+LACA;Latin america and Caraibes (except Brasil and Mexico);ANT;Netherlands Antilles 
+MENA;Moyen-Orient and North Africa;ARE;United Arab Emirates 
+LACA;Latin america and Caraibes (except Brasil and Mexico);ARG;Argentina 
+TE;Transition Economies (including Russia);ARM;Armenia 
+OCEANIA;Oceania;ASM;American Samoa 
+LACA;Latin america and Caraibes (except Brasil and Mexico);ATA;Antarctica 
+SSA;Sub-Saharian African (except South Africa);ATF;French Southern Territories 
+LACA;Latin america and Caraibes (except Brasil and Mexico);ATG;Antigua and Barbuda 
+OCEANIA;Oceania;AUS;Australia 
+EUROPE;Europe;AUT;Austria 
+TE;Transition Economies (including Russia);AZE;Azerbaijan 
+SSA;Sub-Saharian African (except South Africa);BDI;Burundi 
+EUROPE;Europe;BEL;Belgium 
+SSA;Sub-Saharian African (except South Africa);BEN;Benin 
+SSA;Sub-Saharian African (except South Africa);BFA;Burkina Faso 
+SASIA;South Asia;BGD;Bangladesh 
+EUROPE;Europe;BGR;Bulgaria 
+MENA;Moyen-Orient and North Africa;BHR;Bahrain 
+LACA;Latin america and Caraibes (except Brasil and Mexico);BHS;Bahamas 
+EUROPE;Europe;BIH;Bosnia and Herzegovina 
+LACA;Latin america and Caraibes (except Brasil and Mexico);BLM;Saint Barthélemy 
+TE;Transition Economies (including Russia);BLR;Belarus 
+LACA;Latin america and Caraibes (except Brasil and Mexico);BLZ;Belize 
+LACA;Latin america and Caraibes (except Brasil and Mexico);BMU;Bermuda 
+LACA;Latin america and Caraibes (except Brasil and Mexico);BOL;Bolivia, Plurinational State of 
+BRAZIL;Brazil;BRA;Brazil 
+LACA;Latin america and Caraibes (except Brasil and Mexico);BRB;Barbados 
+SEASIA;South-East Asia;BRN;Brunei Darussalam 
+SASIA;South Asia;BTN;Bhutan 
+SSA;Sub-Saharian African (except South Africa);BVT;Bouvet Island 
+SSA;Sub-Saharian African (except South Africa);BWA;Botswana 
+SSA;Sub-Saharian African (except South Africa);CAF;Central African Republic 
+CANADA;Canada;CAN;Canada 
+SEASIA;South-East Asia;CCK;Cocos (Keeling) Islands 
+EUROPE;Europe;CHE;Switzerland 
+LACA;Latin america and Caraibes (except Brasil and Mexico);CHL;Chile 
+CHINA;China;CHN;China 
+SSA;Sub-Saharian African (except South Africa);CIV;Côte d'Ivoire 
+SSA;Sub-Saharian African (except South Africa);CMR;Cameroon 
+SSA;Sub-Saharian African (except South Africa);COD;Congo, the Democratic Republic of the 
+SSA;Sub-Saharian African (except South Africa);COG;Congo 
+OCEANIA;Oceania;COK;Cook Islands 
+LACA;Latin america and Caraibes (except Brasil and Mexico);COL;Colombia 
+SSA;Sub-Saharian African (except South Africa);COM;Comoros 
+SSA;Sub-Saharian African (except South Africa);CPV;Cape Verde 
+LACA;Latin america and Caraibes (except Brasil and Mexico);CRI;Costa Rica 
+LACA;Latin america and Caraibes (except Brasil and Mexico);CUB;Cuba 
+OCEANIA;Oceania;CXR;Christmas Island 
+LACA;Latin america and Caraibes (except Brasil and Mexico);CYM;Cayman Islands 
+EUROPE;Europe;CYP;Cyprus 
+EUROPE;Europe;CZE;Czech Republic 
+EUROPE;Europe;DEU;Germany 
+SSA;Sub-Saharian African (except South Africa);DJI;Djibouti 
+LACA;Latin america and Caraibes (except Brasil and Mexico);DMA;Dominica 
+EUROPE;Europe;DNK;Denmark 
+LACA;Latin america and Caraibes (except Brasil and Mexico);DOM;Dominican Republic 
+MENA;Moyen-Orient and North Africa;DZA;Algeria 
+LACA;Latin america and Caraibes (except Brasil and Mexico);ECU;Ecuador 
+MENA;Moyen-Orient and North Africa;EGY;Egypt 
+SSA;Sub-Saharian African (except South Africa);ERI;Eritrea 
+MENA;Moyen-Orient and North Africa;ESH;Western Sahara 
+EUROPE;Europe;ESP;Spain 
+EUROPE;Europe;EST;Estonia 
+SSA;Sub-Saharian African (except South Africa);ETH;Ethiopia 
+EUROPE;Europe;FIN;Finland 
+OCEANIA;Oceania;FJI;Fiji 
+LACA;Latin america and Caraibes (except Brasil and Mexico);FLK;Falkland Islands (Malvinas) 
+EUROPE;Europe;FRA;France 
+EUROPE;Europe;FRO;Faroe Islands 
+OCEANIA;Oceania;FSM;Micronesia, Federated States of 
+SSA;Sub-Saharian African (except South Africa);GAB;Gabon 
+EUROPE;Europe;GBR;United Kingdom 
+TE;Transition Economies (including Russia);GEO;Georgia 
+EUROPE;Europe;GGY;Guernsey 
+SSA;Sub-Saharian African (except South Africa);GHA;Ghana 
+EUROPE;Europe;GIB;Gibraltar 
+SSA;Sub-Saharian African (except South Africa);GIN;Guinea 
+LACA;Latin america and Caraibes (except Brasil and Mexico);GLP;Guadeloupe 
+SSA;Sub-Saharian African (except South Africa);GMB;Gambia 
+SSA;Sub-Saharian African (except South Africa);GNB;Guinea-Bissau 
+SSA;Sub-Saharian African (except South Africa);GNQ;Equatorial Guinea 
+EUROPE;Europe;GRC;Greece 
+LACA;Latin america and Caraibes (except Brasil and Mexico);GRD;Grenada 
+EUROPE;Europe;GRL;Greenland 
+LACA;Latin america and Caraibes (except Brasil and Mexico);GTM;Guatemala 
+LACA;Latin america and Caraibes (except Brasil and Mexico);GUF;French Guiana 
+OCEANIA;Oceania;GUM;Guam 
+LACA;Latin america and Caraibes (except Brasil and Mexico);GUY;Guyana 
+CHINA;China;HKG;Hong Kong 
+OCEANIA;Oceania;HMD;Heard Island and McDonald Islands 
+LACA;Latin america and Caraibes (except Brasil and Mexico);HND;Honduras 
+EUROPE;Europe;HRV;Croatia 
+LACA;Latin america and Caraibes (except Brasil and Mexico);HTI;Haiti 
+EUROPE;Europe;HUN;Hungary 
+INDONESIA;Indonesia;IDN;Indonesia 
+EUROPE;Europe;IMN;Isle of Man 
+INDIA;India;IND;India 
+SSA;Sub-Saharian African (except South Africa);IOT;British Indian Ocean Territory 
+EUROPE;Europe;IRL;Ireland 
+MENA;Moyen-Orient and North Africa;IRN;Iran, Islamic Republic of 
+MENA;Moyen-Orient and North Africa;IRQ;Iraq 
+EUROPE;Europe;ISL;Iceland 
+MENA;Moyen-Orient and North Africa;ISR;Israel 
+EUROPE;Europe;ITA;Italy 
+LACA;Latin america and Caraibes (except Brasil and Mexico);JAM;Jamaica 
+EUROPE;Europe;JEY;Jersey 
+MENA;Moyen-Orient and North Africa;JOR;Jordan 
+JPNKOR;Japan and South Korea;JPN;Japan 
+TE;Transition Economies (including Russia);KAZ;Kazakhstan 
+SSA;Sub-Saharian African (except South Africa);KEN;Kenya 
+TE;Transition Economies (including Russia);KGZ;Kyrgyzstan 
+SEASIA;South-East Asia;KHM;Cambodia 
+OCEANIA;Oceania;KIR;Kiribati 
+LACA;Latin america and Caraibes (except Brasil and Mexico);KNA;Saint Kitts and Nevis 
+JPNKOR;Japan and South Korea;KOR;Korea, Republic of 
+MENA;Moyen-Orient and North Africa;KWT;Kuwait 
+SEASIA;South-East Asia;LAO;Lao People's Democratic Republic 
+MENA;Moyen-Orient and North Africa;LBN;Lebanon 
+SSA;Sub-Saharian African (except South Africa);LBR;Liberia 
+MENA;Moyen-Orient and North Africa;LBY;Libyan Arab Jamahiriya 
+LACA;Latin america and Caraibes (except Brasil and Mexico);LCA;Saint Lucia 
+EUROPE;Europe;LIE;Liechtenstein 
+SASIA;South Asia;LKA;Sri Lanka 
+SSA;Sub-Saharian African (except South Africa);LSO;Lesotho 
+EUROPE;Europe;LTU;Lithuania 
+EUROPE;Europe;LUX;Luxembourg 
+EUROPE;Europe;LVA;Latvia 
+CHINA;China;MAC;Macao 
+LACA;Latin america and Caraibes (except Brasil and Mexico);MAF;Saint Martin (French part) 
+MENA;Moyen-Orient and North Africa;MAR;Morocco 
+EUROPE;Europe;MCO;Monaco 
+TE;Transition Economies (including Russia);MDA;Moldova, Republic of 
+SSA;Sub-Saharian African (except South Africa);MDG;Madagascar 
+SASIA;South Asia;MDV;Maldives 
+MEXICO;Mexico;MEX;Mexico 
+OCEANIA;Oceania;MHL;Marshall Islands 
+EUROPE;Europe;MKD;Macedonia, the former Yugoslav Republic of 
+SSA;Sub-Saharian African (except South Africa);MLI;Mali 
+EUROPE;Europe;MLT;Malta 
+SEASIA;South-East Asia;MMR;Myanmar 
+EUROPE;Europe;MNE;Montenegro 
+TE;Transition Economies (including Russia);MNG;Mongolia 
+OCEANIA;Oceania;MNP;Northern Mariana Islands 
+SSA;Sub-Saharian African (except South Africa);MOZ;Mozambique 
+SSA;Sub-Saharian African (except South Africa);MRT;Mauritania 
+LACA;Latin america and Caraibes (except Brasil and Mexico);MSR;Montserrat 
+LACA;Latin america and Caraibes (except Brasil and Mexico);MTQ;Martinique 
+SSA;Sub-Saharian African (except South Africa);MUS;Mauritius 
+SSA;Sub-Saharian African (except South Africa);MWI;Malawi 
+SEASIA;South-East Asia;MYS;Malaysia 
+SSA;Sub-Saharian African (except South Africa);MYT;Mayotte 
+SSA;Sub-Saharian African (except South Africa);NAM;Namibia 
+OCEANIA;Oceania;NCL;New Caledonia 
+SSA;Sub-Saharian African (except South Africa);NER;Niger 
+OCEANIA;Oceania;NFK;Norfolk Island 
+SSA;Sub-Saharian African (except South Africa);NGA;Nigeria 
+LACA;Latin america and Caraibes (except Brasil and Mexico);NIC;Nicaragua 
+OCEANIA;Oceania;NIU;Niue 
+EUROPE;Europe;NLD;Netherlands 
+EUROPE;Europe;NOR;Norway 
+SASIA;South Asia;NPL;Nepal 
+OCEANIA;Oceania;NRU;Nauru 
+OCEANIA;Oceania;NZL;New Zealand 
+MENA;Moyen-Orient and North Africa;OMN;Oman 
+SASIA;South Asia;PAK;Pakistan 
+LACA;Latin america and Caraibes (except Brasil and Mexico);PAN;Panama 
+OCEANIA;Oceania;PCN;Pitcairn 
+LACA;Latin america and Caraibes (except Brasil and Mexico);PER;Peru 
+SEASIA;South-East Asia;PHL;Philippines 
+OCEANIA;Oceania;PLW;Palau 
+OCEANIA;Oceania;PNG;Papua New Guinea 
+EUROPE;Europe;POL;Poland 
+LACA;Latin america and Caraibes (except Brasil and Mexico);PRI;Puerto Rico 
+JPNKOR;Japan and South Korea;PRK;Korea, Democratic People's Republic of 
+EUROPE;Europe;PRT;Portugal 
+LACA;Latin america and Caraibes (except Brasil and Mexico);PRY;Paraguay 
+MENA;Moyen-Orient and North Africa;PSE;Palestinian Territory, Occupied 
+OCEANIA;Oceania;PYF;French Polynesia 
+MENA;Moyen-Orient and North Africa;QAT;Qatar 
+SSA;Sub-Saharian African (except South Africa);REU;Réunion 
+EUROPE;Europe;ROU;Romania 
+TE;Transition Economies (including Russia);RUS;Russian Federation 
+SSA;Sub-Saharian African (except South Africa);RWA;Rwanda 
+MENA;Moyen-Orient and North Africa;SAU;Saudi Arabia 
+SSA;Sub-Saharian African (except South Africa);SDN;Sudan 
+SSA;Sub-Saharian African (except South Africa);SEN;Senegal 
+SEASIA;South-East Asia;SGP;Singapore 
+LACA;Latin america and Caraibes (except Brasil and Mexico);SGS;South Georgia and the South Sandwich Islands 
+SSA;Sub-Saharian African (except South Africa);SHN;Saint Helena, Ascension and Tristan da Cunha 
+EUROPE;Europe;SJM;Svalbard and Jan Mayen 
+OCEANIA;Oceania;SLB;Solomon Islands 
+SSA;Sub-Saharian African (except South Africa);SLE;Sierra Leone 
+LACA;Latin america and Caraibes (except Brasil and Mexico);SLV;El Salvador 
+EUROPE;Europe;SMR;San Marino 
+SSA;Sub-Saharian African (except South Africa);SOM;Somalia 
+CANADA;Canada;SPM;Saint Pierre and Miquelon 
+EUROPE;Europe;SRB;Serbia 
+SSA;Sub-Saharian African (except South Africa);SSD;South Sudan
+SSA;Sub-Saharian African (except South Africa);STP;Sao Tome and Principe 
+LACA;Latin america and Caraibes (except Brasil and Mexico);SUR;Suriname 
+EUROPE;Europe;SVK;Slovakia 
+EUROPE;Europe;SVN;Slovenia 
+EUROPE;Europe;SWE;Sweden 
+SSA;Sub-Saharian African (except South Africa);SWZ;Swaziland 
+SSA;Sub-Saharian African (except South Africa);SYC;Seychelles 
+MENA;Moyen-Orient and North Africa;SYR;Syrian Arab Republic 
+LACA;Latin america and Caraibes (except Brasil and Mexico);TCA;Turks and Caicos Islands 
+SSA;Sub-Saharian African (except South Africa);TCD;Chad 
+SSA;Sub-Saharian African (except South Africa);TGO;Togo 
+SEASIA;South-East Asia;THA;Thailand 
+TE;Transition Economies (including Russia);TJK;Tajikistan 
+OCEANIA;Oceania;TKL;Tokelau 
+TE;Transition Economies (including Russia);TKM;Turkmenistan 
+OCEANIA;Oceania;TLS;Timor-Leste 
+OCEANIA;Oceania;TON;Tonga 
+LACA;Latin america and Caraibes (except Brasil and Mexico);TTO;Trinidad and Tobago 
+MENA;Moyen-Orient and North Africa;TUN;Tunisia 
+TE;Transition Economies (including Russia);TUR;Turkey 
+OCEANIA;Oceania;TUV;Tuvalu 
+CHINA;China;TWN;Taiwan, Province of China 
+SSA;Sub-Saharian African (except South Africa);TZA;Tanzania, United Republic of 
+SSA;Sub-Saharian African (except South Africa);UGA;Uganda 
+TE;Transition Economies (including Russia);UKR;Ukraine 
+OCEANIA;Oceania;UMI;United States Minor Outlying Islands 
+LACA;Latin america and Caraibes (except Brasil and Mexico);URY;Uruguay 
+USA;United States of America;USA;United States 
+TE;Transition Economies (including Russia);UZB;Uzbekistan 
+EUROPE;Europe;VAT;Holy See (Vatican City State) 
+LACA;Latin america and Caraibes (except Brasil and Mexico);VCT;Saint Vincent and the Grenadines 
+LACA;Latin america and Caraibes (except Brasil and Mexico);VEN;Venezuela, Bolivarian Republic of 
+LACA;Latin america and Caraibes (except Brasil and Mexico);VGB;Virgin Islands, British 
+LACA;Latin america and Caraibes (except Brasil and Mexico);VIR;Virgin Islands, U.S. 
+SEASIA;South-East Asia;VNM;Viet Nam 
+OCEANIA;Oceania;VUT;Vanuatu 
+OCEANIA;Oceania;WLF;Wallis and Futuna 
+OCEANIA;Oceania;WSM;Samoa 
+MENA;Moyen-Orient and North Africa;YEM;Yemen 
+SOUTHAFRICA;South Africa;ZAF;South Africa 
+SSA;Sub-Saharian African (except South Africa);ZMB;Zambia 
+SSA;Sub-Saharian African (except South Africa);ZWE;Zimbabwe 
